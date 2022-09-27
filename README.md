@@ -51,7 +51,7 @@
 |**[FCN(Fully Convolutional Layer)](https://blog.naver.com/qkrdnjsrl0628/222843708131)**|2015|Segmentation|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Segmentation/FCN/%5B%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0%5D%20FCN%20%5B2015%5D.pdf)|None|
 |**[DeConvNet(Deconvolution Network)](https://blog.naver.com/qkrdnjsrl0628/222865150423)**|2015|Segmentation|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Segmentation/DeConvNet/%5B%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B5%E1%84%87%E1%85%B2%5D%20DeConvNet%20%5B2015%5D.pdf)|[CODE](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Segmentation/DeConvNet/DeConvNet.ipynb)|
 |**[U-Net](https://blog.naver.com/qkrdnjsrl0628/222869495906)**|2015|Segmentation|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Segmentation/U-Net/%5B%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B5%E1%84%87%E1%85%B2%5D%20U-Net%20%5B2015%5D.pdf)|[CODE](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Segmentation/U-Net/U_NET.py)|
-
+|**[SegNet](https://blog.naver.com/qkrdnjsrl0628/222885794143)**|2017|Segmentation|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Segmentation/SegNet/%5B%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%20%E1%84%85%E1%85%B5%E1%84%87%E1%85%B2%5D%20SegNet%20%5B2017%5D.pdf)|Later|
 
 
 ### Generative Adversarial
