@@ -1,6 +1,6 @@
 # AI REVIEW & Implementation
 **🌟If you find any errors or corrections, leave an ISSUE**<br>
-**🌟I saved review as pdf within folder**
+**🌟PDF가 더 상세하니, 클릭하여 참고하시기 바랍니다! (추후, tutorial 제작 예정)**
 # Computer Vision
 <hr>
 
