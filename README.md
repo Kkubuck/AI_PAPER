@@ -53,7 +53,7 @@
 |**[U-Net](https://blog.naver.com/qkrdnjsrl0628/222869495906)**|2015|Segmentation|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Segmentation/U-Net/%5B%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B5%E1%84%87%E1%85%B2%5D%20U-Net%20%5B2015%5D.pdf)|[CODE](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Segmentation/U-Net/U_NET.py)|
 |**[SegNet](https://blog.naver.com/qkrdnjsrl0628/222885794143)**|2017|Segmentation|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Segmentation/SegNet/%5B%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%20%E1%84%85%E1%85%B5%E1%84%87%E1%85%B2%5D%20SegNet%20%5B2017%5D.pdf)|[CODE](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Segmentation/SegNet/SegNet.py)|
 |**[MultiResUNet](https://blog.naver.com/qkrdnjsrl0628/222889686519)**|2019|Segmentation|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Segmentation/MultiResUNet/%5B%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B5%E1%84%87%E1%85%B2%5D%20MultiResUNet%20%5B2019%5D.pdf)|[CODE](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Segmentation/MultiResUNet/MultiResUNet.py)|
-|SETR|2021|Segmentation|PDF|CODE|
+|**[SETR](https://blog.naver.com/qkrdnjsrl0628/222894999679)**|2021|Segmentation|[PDF](https://github.com/kalelpark/AI_PAPER/blob/main/Vision%20Segmentation/SETR/%5B%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%20%E1%84%85%E1%85%B5%E1%84%87%E1%85%B2%5D%20SETR%20%5B2021%5D.pdf)|Later|
 
 
 ### Generative Adversarial
