@@ -95,5 +95,8 @@
 |Name|Year|Field|PDF|CODE|
 |---|---|---|---|---|
 |**[TabNet](https://blog.naver.com/qkrdnjsrl0628/222836423300)**|2019|Tabular|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Tabluar/%5B%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0%5D%20TabNet%20%5B2019%5D.pdf)|[CODE](https://github.com/dreamquark-ai/tabnet)|
-|**[FT-Transformer](https://proceedings.neurips.cc/paper/2021/file/9d86d83f925f2149e9edb0ac3b49229c-Paper.pdf)**|2022|Tabular|[PDF](https://proceedings.neurips.cc/paper/2021/file/9d86d83f925f2149e9edb0ac3b49229c-Paper.pdf)|Later|
+|**[ResNet for Tabular](https://proceedings.neurips.cc/paper/2021/file/9d86d83f925f2149e9edb0ac3b49229c-Paper.pdf)**|2022|Tabular|[PDF](https://proceedings.neurips.cc/paper/2021/file/9d86d83f925f2149e9edb0ac3b49229c-Paper.pdf)|[CODE](https://github.com/kalelpark/AI_PAPER/blob/main/Tabular/ResNet/resnet_tabular.py)|
+|**[FT-Transformer](https://proceedings.neurips.cc/paper/2021/file/9d86d83f925f2149e9edb0ac3b49229c-Paper.pdf)**|2022|Tabular|[PDF](https://proceedings.neurips.cc/paper/2021/file/9d86d83f925f2149e9edb0ac3b49229c-Paper.pdf)|[CODE](https://github.com/kalelpark/AI_PAPER/blob/main/Tabular/FT_Transformer/ft_transformer.py)|
+
+
 
