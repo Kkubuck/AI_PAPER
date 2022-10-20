@@ -1,4 +1,4 @@
-# AI PAPER & Implement
+# Machine Learning & Deep Learning AI PAPER
 **🌟If you find any errors or corrections, leave an ISSUE**<br>
 **🌟PDF를 클릭하여 참고하시기 바랍니다! (추후, Tutorial 제작 예정)**
 # Computer Vision
