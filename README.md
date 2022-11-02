@@ -85,6 +85,7 @@
 |**[ArcFace](https://blog.naver.com/qkrdnjsrl0628/222876933722)**|2019|VISION|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/utils/arcFace/%5B%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B5%E1%84%87%E1%85%B2%5D%20ArcFace%20%5B2019%5D.pdf)|[CODE](https://github.com/kalelpark/AI_REVIEW/tree/main/utils/arcFace/code)|
 |**[Meta Pseudo Label](https://blog.naver.com/qkrdnjsrl0628/222887899024)**|2020|TRAIN|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/utils/MetaPseudoLabel/%5B%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B5%E1%84%87%E1%85%B2%5D%20MetaPseudoLabel%20%5B2020%5D.pdf)|[CODE](https://www.kaggle.com/code/kalelpark/meta-pseudo-label-for-korean)|
 |**[Embedding for Tabular](https://github.com/Yura52/tabular-dl-num-embeddings)**|2022|Module|[PDF](https://arxiv.org/abs/2203.05556)|[CODE](https://github.com/Yura52/tabular-dl-num-embeddings)|
+|**[RMDL(Recalibrated multi instance DL)](https://www.sciencedirect.com/science/article/pii/S1361841519300842?via%3Dihub)**|2019|TRAIN|[PDF](https://www.sciencedirect.com/science/article/pii/S1361841519300842?via%3Dihub)|NONE|
 
 
 
