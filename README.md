@@ -42,6 +42,7 @@
 |**[Faster R-CNN](https://blog.naver.com/qkrdnjsrl0628/222835401836)**|2015|Detection|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Object%20Detection/Faster%20R-CNN/%5B%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0%5D%20Faster%20R-CNN%5B2015%5D.pdf)|[CODE](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Object%20Detection/Faster%20R-CNN/faster-r-cnn.ipynb)|
 |**[OHEM(Online Hard Example Mining)](https://blog.naver.com/qkrdnjsrl0628/222839193767)**|2016|Detection|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Object%20Detection/OHEM/%5B%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0%5D%20OHEM%20%5B2016%5D.pdf)|None|
 |**[YOLOv1(You Only Look Once)](https://blog.naver.com/qkrdnjsrl0628/222840608410)**|2016|Detection|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Object%20Detection/YOLOv1/%5B%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0%5D%20YOLOv1%20%5B2016%5D.pdf)|[CODE](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Object%20Detection/YOLOv1/pytorch-yolov1-scratch.ipynb)|
+|**[SSD(Single Shot Detection)](https://blog.naver.com/qkrdnjsrl0628/222840608410)**|2016|Detection|NONE|NONE|
 |**[FPN(Feature Pyramids Network)](https://blog.naver.com/qkrdnjsrl0628/222837350331)**|2017|Detection|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Object%20Detection/FPN/%5B%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B5%E1%84%87%E1%85%B2%5D%20FPN%20%5B2017%5D.pdf)|None|
 
 
