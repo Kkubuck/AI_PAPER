@@ -1,10 +1,10 @@
 # Machine Learning & Deep Learning AI PAPER
 **🌟If you find any errors or corrections, leave an issue**<br>
 **🌟PDF를 클릭하여 참고하시기 바랍니다! (추후, Tutorial 제작 예정)**
-# Computer Vision
+
 <hr>
 
-### Classification
+# Classification
 
 |Name|Year|Field|PDF|CODE|
 |---|---|---|---|---|
@@ -31,7 +31,7 @@
 
 
 
-### Object Detection
+# Object Detection
 
 |Name|Year|Field|PDF|CODE|
 |---|---|---|---|---|
@@ -45,7 +45,7 @@
 |**[FPN(Feature Pyramids Network)](https://blog.naver.com/qkrdnjsrl0628/222837350331)**|2017|Detection|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Object%20Detection/FPN/%5B%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B5%E1%84%87%E1%85%B2%5D%20FPN%20%5B2017%5D.pdf)|None|
 
 
-### Segmentation
+# Segmentation
 
 |Name|Year|Field|PDF|CODE|
 |---|---|---|---|---|
@@ -58,7 +58,7 @@
 |**[SETR](https://blog.naver.com/qkrdnjsrl0628/222894999679)**|2021|Segmentation|[PDF](https://github.com/kalelpark/AI_PAPER/blob/main/Vision%20Segmentation/SETR/%5B%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%20%E1%84%85%E1%85%B5%E1%84%87%E1%85%B2%5D%20SETR%20%5B2021%5D.pdf)|Later|
 
 
-### Generative Adversarial
+# Generative Adversarial
 |Name|Year|Field|PDF|CODE|
 |---|---|---|---|---|
 |**[Generative Adversarial Nets](https://blog.naver.com/qkrdnjsrl0628/222844575597)**|2014|GAN|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20GAN/GAN/%5B%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B5%E1%84%87%E1%85%B2%5D%20GAN%20%5B2014%5D.pdf)|[CODE](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20GAN/GAN/GAN_implement.ipynb)|
@@ -67,15 +67,28 @@
 |**[Pix2Pix(Pix2Pix Generative Adversarial Net)](https://blog.naver.com/qkrdnjsrl0628/222851064423)**|2017|GAN|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20GAN/InfoGAN/%5B%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0%5D%20InfoGAN%20%5B2016%5D.pdf)|[CODE](https://deep-learning-study.tistory.com/646)|
 
 
-### Super Resolution
+# Super Resolution
 |Name|Year|Field|PDF|CODE|
 |---|---|---|---|---|
 |**[SRCNN(Super Resolution)](https://blog.naver.com/qkrdnjsrl0628/222868709478)**|2015|SR|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20SR/SRCNN/%5B%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B5%E1%84%87%E1%85%B2%5D%20SuperResolutionCNN%20%5B2015%5D.pdf)|[CODE](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20SR/SRCNN/SRCNN.py)|
 |EDSR(Enhanced Deep Super Resolution)|2017|SR|Later|[CODE](https://github.com/kalelpark/AI_REVIEW/tree/main/Vision%20SR/EDSR)|
 
+# Tabular Data
+
+|Name|Year|Field|PDF|CODE|
+|---|---|---|---|---|
+|**[TabNet](https://blog.naver.com/qkrdnjsrl0628/222836423300)**|2019|Tabular|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Tabluar/%5B%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0%5D%20TabNet%20%5B2019%5D.pdf)|[CODE](https://github.com/dreamquark-ai/tabnet)|
+|**[ResNet for Tabular](https://proceedings.neurips.cc/paper/2021/file/9d86d83f925f2149e9edb0ac3b49229c-Paper.pdf)**|2022|Tabular|[PDF](https://proceedings.neurips.cc/paper/2021/file/9d86d83f925f2149e9edb0ac3b49229c-Paper.pdf)|[CODE](https://github.com/kalelpark/AI_PAPER/blob/main/Tabular/ResNet/resnet_tabular.py)|
+|**[FT-Transformer](https://proceedings.neurips.cc/paper/2021/file/9d86d83f925f2149e9edb0ac3b49229c-Paper.pdf)**|2022|Tabular|[PDF](https://proceedings.neurips.cc/paper/2021/file/9d86d83f925f2149e9edb0ac3b49229c-Paper.pdf)|[CODE](https://github.com/kalelpark/AI_PAPER/blob/main/Tabular/FT_Transformer/ft_transformer.py)|
 
 
-### Utils
+# Knowledge Tracing
+|Name|Year|Field|PDF|CODE|
+|---|---|---|---|---|
+|**[DKVMN(Dynamic Key-Value Memory Net)](https://blog.naver.com/qkrdnjsrl0628/222924392676)**|2017|KT|[PDF](https://github.com/kalelpark/AI_PAPER/blob/main/Knowledge%20Tracing/DKVMN/%5B%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B5%E1%84%87%E1%85%B2%5D%20DKVMN%20%5B2017%5D.pdf)|[CODE](https://github.com/dreamquark-ai/tabnet)|
+
+
+# Utils
 |Name|Year|Field|PDF|CODE|
 |---|---|---|---|---|
 |**[CNN Base](https://github.com/kalelpark/AI_REVIEW/blob/main/1.Base/%5B%20BASE%20%5D%20CNN%20%EC%9D%B4%ED%95%B4.pdf)**|NONE|VISION|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Base/%5B%20BASE%20%5D%20CNN%20%EC%9D%B4%ED%95%B4.pdf)|NONE|
@@ -92,16 +105,6 @@
 
 
 
-
-<hr>
-
-# Tabular Data
-
-|Name|Year|Field|PDF|CODE|
-|---|---|---|---|---|
-|**[TabNet](https://blog.naver.com/qkrdnjsrl0628/222836423300)**|2019|Tabular|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Tabluar/%5B%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0%5D%20TabNet%20%5B2019%5D.pdf)|[CODE](https://github.com/dreamquark-ai/tabnet)|
-|**[ResNet for Tabular](https://proceedings.neurips.cc/paper/2021/file/9d86d83f925f2149e9edb0ac3b49229c-Paper.pdf)**|2022|Tabular|[PDF](https://proceedings.neurips.cc/paper/2021/file/9d86d83f925f2149e9edb0ac3b49229c-Paper.pdf)|[CODE](https://github.com/kalelpark/AI_PAPER/blob/main/Tabular/ResNet/resnet_tabular.py)|
-|**[FT-Transformer](https://proceedings.neurips.cc/paper/2021/file/9d86d83f925f2149e9edb0ac3b49229c-Paper.pdf)**|2022|Tabular|[PDF](https://proceedings.neurips.cc/paper/2021/file/9d86d83f925f2149e9edb0ac3b49229c-Paper.pdf)|[CODE](https://github.com/kalelpark/AI_PAPER/blob/main/Tabular/FT_Transformer/ft_transformer.py)|
 
 
 
